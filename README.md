@@ -20,4 +20,3 @@ A Social Network for developers
 <br/>
 ![github-9](https://user-images.githubusercontent.com/63954124/128591431-ddf0ba9a-06a1-40e6-936c-ed46078ce0af.png)
 <br/>
-Live Link : https://developersarena.herokuapp.com/
